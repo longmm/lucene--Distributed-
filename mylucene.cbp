@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="mylucene" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/mylucene" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="/root/cwork/mylucene/head" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/mylucene" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="document/AbstractField.cpp" />
+		<Unit filename="document/Document.cpp" />
+		<Unit filename="head/document.h" />
+		<Unit filename="head/index.h" />
+		<Unit filename="head/lucene_search.h" />
+		<Unit filename="head/lucene_util.h" />
+		<Unit filename="head/store.h" />
+		<Unit filename="index/DocumentWriter.cpp" />
+		<Unit filename="index/FieldInfo.cpp" />
+		<Unit filename="index/FieldInfos.cpp" />
+		<Unit filename="index/IndexFileDeleter.cpp" />
+		<Unit filename="index/IndexFileNames.cpp" />
+		<Unit filename="index/IndexReader.cpp" />
+		<Unit filename="index/IndexWriter.cpp" />
+		<Unit filename="index/MTermDocs.cpp" />
+		<Unit filename="index/MultiLevelSkipListReader.cpp" />
+		<Unit filename="index/MultiLevelSkipListWriter.cpp" />
+		<Unit filename="index/Norm.cpp" />
+		<Unit filename="index/Posting.cpp" />
+		<Unit filename="index/SegmentInfo.cpp" />
+		<Unit filename="index/SegmentInfos.cpp" />
+		<Unit filename="index/SegmentMergeInfo.cpp" />
+		<Unit filename="index/SegmentMerger.cpp" />
+		<Unit filename="index/SegmentReader.cpp" />
+		<Unit filename="index/SegmentTermDocs.cpp" />
+		<Unit filename="index/SegmentTermPositions.cpp" />
+		<Unit filename="index/SkipCell.cpp" />
+		<Unit filename="index/Term.cpp" />
+		<Unit filename="index/TermInfo.cpp" />
+		<Unit filename="index/TermInfosReader.cpp" />
+		<Unit filename="index/TermInfosWriter.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="search/BoolQuery.cpp" />
+		<Unit filename="search/BoolScore.cpp" />
+		<Unit filename="search/Hits.cpp" />
+		<Unit filename="search/IndexSearcher.cpp" />
+		<Unit filename="search/RESDOC.cpp" />
+		<Unit filename="search/Similarity.cpp" />
+		<Unit filename="search/TermQuery.cpp" />
+		<Unit filename="search/TermScore.cpp" />
+		<Unit filename="store/BufferedIndexInput.cpp" />
+		<Unit filename="store/BufferedIndexOutput.cpp" />
+		<Unit filename="store/FSIndexInput.cpp" />
+		<Unit filename="store/FSIndexOutput.cpp" />
+		<Unit filename="store/FSLock.cpp" />
+		<Unit filename="store/FSRDescriptor.cpp" />
+		<Unit filename="store/FSWDescriptor.cpp" />
+		<Unit filename="store/IndexInput.cpp" />
+		<Unit filename="store/IndexOutput.cpp" />
+		<Unit filename="util/StopWords.cpp" />
+		<Unit filename="util/charToWstring.cpp" />
+		<Unit filename="util/fileExist.cpp" />
+		<Unit filename="util/initwchars.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

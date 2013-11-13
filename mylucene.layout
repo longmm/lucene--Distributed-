@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="document/AbstractField.cpp" open="1" top="0" tabpos="42">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="document/Document.cpp" open="1" top="0" tabpos="41">
+		<Cursor position="197" topLine="4" />
+	</File>
+	<File name="head/document.h" open="1" top="0" tabpos="19">
+		<Cursor position="566" topLine="15" />
+	</File>
+	<File name="head/index.h" open="1" top="0" tabpos="1">
+		<Cursor position="13540" topLine="544" />
+	</File>
+	<File name="head/lucene_search.h" open="1" top="0" tabpos="32">
+		<Cursor position="1513" topLine="75" />
+	</File>
+	<File name="head/lucene_util.h" open="1" top="0" tabpos="20">
+		<Cursor position="159" topLine="0" />
+	</File>
+	<File name="head/store.h" open="1" top="0" tabpos="24">
+		<Cursor position="2164" topLine="126" />
+	</File>
+	<File name="index/DocumentWriter.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="187" topLine="0" />
+	</File>
+	<File name="index/FieldInfo.cpp" open="1" top="0" tabpos="23">
+		<Cursor position="367" topLine="0" />
+	</File>
+	<File name="index/FieldInfos.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="3577" topLine="53" />
+	</File>
+	<File name="index/IndexFileDeleter.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="1720" topLine="51" />
+	</File>
+	<File name="index/IndexFileNames.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1663" topLine="18" />
+	</File>
+	<File name="index/IndexReader.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="4152" topLine="384" />
+	</File>
+	<File name="index/IndexWriter.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="4230" topLine="202" />
+	</File>
+	<File name="index/MTermDocs.cpp" open="1" top="0" tabpos="31">
+		<Cursor position="4718" topLine="0" />
+	</File>
+	<File name="index/MultiLevelSkipListReader.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="796" topLine="27" />
+	</File>
+	<File name="index/MultiLevelSkipListWriter.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="2423" topLine="57" />
+	</File>
+	<File name="index/Norm.cpp" open="1" top="0" tabpos="30">
+		<Cursor position="301" topLine="0" />
+	</File>
+	<File name="index/Posting.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="253" topLine="10" />
+	</File>
+	<File name="index/SegmentInfo.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="2102" topLine="56" />
+	</File>
+	<File name="index/SegmentInfos.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="1404" topLine="38" />
+	</File>
+	<File name="index/SegmentMergeInfo.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="868" topLine="21" />
+	</File>
+	<File name="index/SegmentMerger.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="2465" topLine="97" />
+	</File>
+	<File name="index/SegmentReader.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="3245" topLine="131" />
+	</File>
+	<File name="index/SegmentTermDocs.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1631" topLine="68" />
+	</File>
+	<File name="index/SegmentTermPositions.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="3279" topLine="150" />
+	</File>
+	<File name="index/SkipCell.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="518" topLine="0" />
+	</File>
+	<File name="index/Term.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="234" topLine="0" />
+	</File>
+	<File name="index/TermInfo.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1622" topLine="37" />
+	</File>
+	<File name="index/TermInfosReader.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="814" topLine="86" />
+	</File>
+	<File name="index/TermInfosWriter.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1454" topLine="24" />
+	</File>
+	<File name="search/BoolQuery.cpp" open="1" top="0" tabpos="37">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="search/BoolScore.cpp" open="1" top="1" tabpos="34">
+		<Cursor position="4985" topLine="199" />
+	</File>
+	<File name="search/Hits.cpp" open="1" top="0" tabpos="39">
+		<Cursor position="549" topLine="0" />
+	</File>
+	<File name="search/IndexSearcher.cpp" open="1" top="0" tabpos="36">
+		<Cursor position="380" topLine="0" />
+	</File>
+	<File name="search/RESDOC.cpp" open="1" top="0" tabpos="40">
+		<Cursor position="191" topLine="2" />
+	</File>
+	<File name="search/Similarity.cpp" open="1" top="0" tabpos="28">
+		<Cursor position="30" topLine="6" />
+	</File>
+	<File name="search/TermQuery.cpp" open="1" top="0" tabpos="38">
+		<Cursor position="153" topLine="0" />
+	</File>
+	<File name="search/TermScore.cpp" open="1" top="0" tabpos="35">
+		<Cursor position="993" topLine="18" />
+	</File>
+	<File name="store/BufferedIndexInput.cpp" open="1" top="0" tabpos="33">
+		<Cursor position="1919" topLine="107" />
+	</File>
+	<File name="store/BufferedIndexOutput.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1857" topLine="44" />
+	</File>
+	<File name="store/FSIndexInput.cpp" open="1" top="0" tabpos="25">
+		<Cursor position="281" topLine="0" />
+	</File>
+	<File name="store/FSIndexOutput.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="530" topLine="0" />
+	</File>
+	<File name="store/FSRDescriptor.cpp" open="1" top="0" tabpos="26">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="store/IndexInput.cpp" open="1" top="0" tabpos="27">
+		<Cursor position="2244" topLine="68" />
+	</File>
+	<File name="store/IndexOutput.cpp" open="1" top="0" tabpos="29">
+		<Cursor position="790" topLine="0" />
+	</File>
+	<File name="util/StopWords.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="267" topLine="0" />
+	</File>
+	<File name="util/charToWstring.cpp" open="1" top="0" tabpos="22">
+		<Cursor position="0" topLine="3" />
+	</File>
+</CodeBlocks_layout_file>

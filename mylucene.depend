@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1325217164 source:/root/cwork/mylucene/document/AbstractField.cpp
+	<iostream>
+	<string>
+	"document.h"
+
+1326371212 /root/cwork/mylucene/head/document.h
+	<iostream>
+	<set>
+	<string>
+
+1325128608 source:/root/cwork/mylucene/index/FieldInfo.cpp
+	<iostream>
+	"index.h"
+
+1327976395 /root/cwork/mylucene/head/index.h
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<limits.h>
+	<stdio.h>
+	"document.h"
+	"store.h"
+	"lucene_util.h"
+	"lucene_search.h"
+
+1325325630 /root/cwork/mylucene/head/store.h
+	<iostream>
+	<string>
+	<sys/types.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<pthread.h>
+
+1325332361 /root/cwork/mylucene/head/lucene_util.h
+	<string>
+	<iostream>
+	<vector>
+	<sys/types.h>
+	<dirent.h>
+
+1325693559 /root/cwork/mylucene/head/lucene_search.h
+	<iostream>
+	<math.h>
+
+1325852433 source:/root/cwork/mylucene/index/FieldInfos.cpp
+	<iostream>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<string.h>
+	<utility>
+	"store.h"
+	"document.h"
+	"index.h"
+	"lucene_util.h"
+
+1325585159 source:/root/cwork/mylucene/index/IndexFileDeleter.cpp
+	"index.h"
+	"lucene_util.h"
+	<stdio.h>
+
+1325844779 source:/root/cwork/mylucene/index/IndexFileNames.cpp
+	<iostream>
+	<string>
+	<vector>
+	"index.h"
+
+1325582967 source:/root/cwork/mylucene/index/SegmentInfo.cpp
+	<iostream>
+	"index.h"
+	"lucene_util.h"
+	<string>
+	<vector>
+
+1325129348 source:/root/cwork/mylucene/index/Term.cpp
+	<iostream>
+	<string>
+	"index.h"
+
+1323941672 source:/root/cwork/mylucene/index/TermInfo.cpp
+	<iostream>
+	<string>
+	"index.h"
+
+1326205575 source:/root/cwork/mylucene/main.cpp
+	<iostream>
+
+1325486698 source:/root/cwork/mylucene/store/BufferedIndexInput.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	"store.h"
+
+1325486710 source:/root/cwork/mylucene/store/BufferedIndexOutput.cpp
+	<iostream>
+	<string>
+	<string.h>
+	"store.h"
+
+1325486753 source:/root/cwork/mylucene/store/FSIndexInput.cpp
+	<iostream>
+	<pthread.h>
+	"store.h"
+
+1323919708 source:/root/cwork/mylucene/store/FSIndexOutput.cpp
+	<iostream>
+	<pthread.h>
+	"store.h"
+
+1325486608 source:/root/cwork/mylucene/store/FSLock.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	"store.h"
+
+1325583535 source:/root/cwork/mylucene/store/FSRDescriptor.cpp
+	<iostream>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	"store.h"
+
+1325583542 source:/root/cwork/mylucene/store/FSWDescriptor.cpp
+	<iostream>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	"store.h"
+
+1325314149 source:/root/cwork/mylucene/store/IndexInput.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	"store.h"
+	"lucene_util.h"
+
+1325326209 source:/root/cwork/mylucene/store/IndexOutput.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	"store.h"
+
+1325324575 source:/root/cwork/mylucene/util/charToWstring.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<dirent.h>
+	<sstream>
+	"lucene_util.h"
+
+1325331465 source:/root/cwork/mylucene/util/fileExist.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"lucene_util.h"
+
+1324033849 source:/root/cwork/mylucene/util/initwchars.cpp
+	<iostream>
+	<string>
+	"lucene_util.h"
+
+1327981755 source:/root/cwork/mylucene/test/test1.cpp
+	<iostream>
+	"lucene_util.h"
+	"store.h"
+
