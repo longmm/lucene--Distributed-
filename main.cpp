@@ -8,3 +8,4 @@ int main()
     return 0;
 }
 test_git
+test_git_2
